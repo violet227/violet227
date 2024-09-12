@@ -1,4 +1,3 @@
-Hey there,  Check out my work
 # 👋 &nbsp;Hi there
 
 - 👋 Hi, I’m Vito.

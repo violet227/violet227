@@ -1,5 +1,7 @@
 # 👋 &nbsp;Hi there
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/violet227/count.svg) visitor!
+
 - 👋 Hi, I’m Vito.
 - 👀 I’m interested in reading，swimming and writing.
 - 🌱 I’m currently learning Linux kernel.

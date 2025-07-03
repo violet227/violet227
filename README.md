@@ -2,6 +2,8 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/violet227/count.svg) visitor!
 
+<a href="https://info.flagcounter.com/l9y3"><img src="https://s01.flagcounter.com/countxl/l9y3/bg_FFFFFF/txt_000000/border_621BCC/columns_2/maxflags_8/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 - 👋 Hi, I’m Vito.
 - 👀 I’m interested in reading，swimming and writing.
 - 🌱 I’m currently learning Linux kernel.

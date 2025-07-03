@@ -1,6 +1,18 @@
-# 👋 &nbsp;Hi there
+<div align="center">
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
-<a href="https://info.flagcounter.com/l9y3"><img src="https://s01.flagcounter.com/countxl/l9y3/bg_FFFFFF/txt_000000/border_621BCC/columns_2/maxflags_8/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="wangtao27.top"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+	<a href="https://www.zhaihu.com/people/gu-dao-violet"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/265933907"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/fly_wt?type=blog"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=violet227&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+<p><b>Technology has the power to make the world a better place</b></p>
+</div>
 
 - 👋 Hi, I’m Vito.
 - 👀 I’m interested in reading，swimming and writing.

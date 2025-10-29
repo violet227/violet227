@@ -15,11 +15,6 @@
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
 
-- 👋 Hi, I’m Vito.
-- 👀 I’m interested in reading，swimming and writing.
-- 🌱 I’m currently learning Linux kernel.
-- 📫 How to reach me wantao@qti.qualcomm.com
-
 &nbsp;
 
 ## ⌨️ Things I code with
